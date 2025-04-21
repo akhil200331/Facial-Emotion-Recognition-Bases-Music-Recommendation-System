@@ -23,8 +23,8 @@ classes = ["angry", "disgust", "fear", "happy", "neutral", "sad", "surprise"]
 IMAGE_SIZE = (48, 48)
 
 # Set up Spotify API credentials
-CLIENT_ID = "e658cffc1dd5487db9ad480a96bd748c"
-CLIENT_SECRET = "5d70cd4b2469419ab518e44f540ac852"
+CLIENT_ID = "your id"
+CLIENT_SECRET = "ur secret"
 REDIRECT_URI = "http://127.0.0.1:8888/callback"  # Ensure this is registered in Spotify Developer Dashboard
 
 # Authenticate for public playlists (Client Credentials)
