@@ -1,0 +1,6 @@
+Flask==2.3.2
+tensorflow==2.12.0
+numpy==1.24.3
+opencv-python==4.8.0.76
+spotipy==2.23.0
+requests==2.31.0
